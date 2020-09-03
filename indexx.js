@@ -48,3 +48,4 @@ function capitalize(word)
 }
 capitalize('hiiiii');
 capitalize('hiiiiiiiiiiiiiiiiiii');
+console.log('Done');
