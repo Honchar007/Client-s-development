@@ -1,4 +1,12 @@
-console.log("Hello");
+
+function func()
+{
+	 var val = document.getElementById('inp').value;
+    document.getElementById('str').innerHTML="Вы ввели: "+val;
+ 
+}
+
+/*console.log("Hello");
 
 function arr(number)
 {
@@ -49,3 +57,4 @@ function capitalize(word)
 capitalize('hiiiii');
 capitalize('hiiiiiiiiiiiiiiiiiii');
 console.log('Done');
+*/
